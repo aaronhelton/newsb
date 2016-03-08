@@ -1,1 +1,2 @@
 text-width 120
+bookmark-cmd "ruby ~/bin/bookmark.rb"
