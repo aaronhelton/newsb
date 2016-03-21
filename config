@@ -1,1 +1,4 @@
 bookmark-cmd "ruby ~/bin/bookmark.rb"
+bookmark-interactive yes
+reload-time 60
+reload-threads 3
